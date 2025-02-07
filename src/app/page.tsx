@@ -73,9 +73,7 @@ function CaseStudies({
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          We believe technology is the answer to the world’s greatest
-          challenges. It’s also the cause, so we find ourselves in bit of a
-          catch 22 situation.
+          This is a really cool website.
         </p>
       </SectionIntro>
       <Container className="mt-16">
